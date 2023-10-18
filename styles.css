@@ -1,0 +1,6 @@
+*, *::before, *::after {
+    background-color: lightblue;
+}
+h1 {
+    font-size: 150px;
+}
